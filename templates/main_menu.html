@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Main Menu</title>
+        <link rel=stylesheet type=text/css href="{{ url_for('static', filename='style.css') }}">
+        <!link rel=stylesheet type=text/css href="style.css">
+		<meta name="viewport" content="width=410, initial-scale=0.9">
+		</head>
+    <body>
+        <div class="container">
+            <div class="content">
+				  <h1>Main Menu</h1>
+				  <a href="program.html#{{anchor}}" class="btn-blue">VIEW THE PROGRAM</a>
+				  <br><br>
+				  <a href="single.html" class="btn-blue">RATE A SINGLE SESSION</a>
+				  <br><br>
+				  <a href="upload_photo.html" class="btn-blue">UPLOAD A PHOTO</a>
+				  <br><br>
+				  <a href="showphotos.html" class="btn-blue">SEE ALL PHOTOS</a>
+				  <br><br>
+				  <a href="rdump" class="btn-blue">DUMP ALL REVIEWS</a>
+				  <br><br>
+			<img src="{{ url_for('static', filename='logo.png') }}" width="270" />
+            </div>
+        </div>
+    </body>
+</html>
+ 

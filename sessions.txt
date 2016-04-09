@@ -1,0 +1,6 @@
+Session 1;One day in the life of DevOps;Clive Gold;1460136400;Auditorium;This session will teach you everything you need to know about Devops. After 20 minutes you will come out with your own fully functional 12-factor app up and running in Cloud Foundry. It doesn't get any better than this
+Session 2;XtremIO and me;Daniel Cifuentes;1460156400;Ground-01;You wanted faster and we heard you. All-flash is the way forward for traditional apps. Come by and learn why. As an SE you will simply won't be successful if you don't attend this session
+Session 3;VNX all day long;Tai tran;1460415600;Ground-01;You thought everything had been said about VNX. Learn the truth about Unity
+Session 4;IoT is the future;Dean Jackson;1460502000;Ground-02;What the heck is an Arduino? A few clues: it's italian, it is eaten al-dente and tastes good. Come and see
+Session 5;ECS for new apps;Alberto Ramos;1460934000;Ground-01;In this session you will learn how to store your stuff in the cloud with a lower TCO than AWS S3 ... by a mile, and what other cool options you get from EMC
+Session 6;FHEC 11.0;David Lloyd;1461106800;Auditorium;The latest version of the hybrid cloud, the greatest compute, network, storage cocktail with vRealize on top, and guess what ... it now fits on a single Docker container 
