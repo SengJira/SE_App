@@ -26,6 +26,8 @@ Environment variables (set them up in Cloud Foundry)
  - ECS_secret
  - bucket (the name of the ECS bucket)
 Redis instance in Cloud Foundry
+sessions.txt file contains details about each session in the conference
+ - Fields are separated by ";" so that you can use commas in the event description
 
 Enjoy
 
